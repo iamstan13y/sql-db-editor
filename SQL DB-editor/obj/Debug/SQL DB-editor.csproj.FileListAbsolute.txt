@@ -1,0 +1,37 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\SQL DB-editor.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\SQL DB-editor.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\SQL DB-editor.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\LoadData.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\LoadData.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\LoadData.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.Main.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.NewDB.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.Table.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.csprojAssemblyReference.cache
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\SQL DB-editor.exe.config
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\SQL DB-editor.exe
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\SQL DB-editor.pdb
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\LoadData.dll
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\MySql.Data.dll
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\LoadData.pdb
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\bin\Debug\LoadData.xml
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.csprojAssemblyReference.cache
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.Main.resources
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.NewDB.resources
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.Properties.Resources.resources
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.Table.resources
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.csproj.GenerateResource.cache
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.csproj.CopyComplete
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.exe
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL DB-editor.pdb
+C:\Users\Stanley Brikkz\Documents\Visual Studio 2015\Projects\SQL DB-editor\SQL DB-editor\obj\Debug\SQL_DB_editor.Login.resources
